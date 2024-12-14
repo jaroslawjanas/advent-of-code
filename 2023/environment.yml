@@ -1,0 +1,5 @@
+name: aoc-2023
+channels:
+    - defaults
+dependencies:
+    - python=3.9
