@@ -1,0 +1,6 @@
+name: aoc-2024
+channels:
+    - defaults
+dependencies:
+    - python=3.12.8
+    - ipykernel=6.29.5
