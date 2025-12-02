@@ -4,3 +4,5 @@ channels:
 dependencies:
     - python=3.14.0
     - ipykernel=6.31.0
+    - tqdm=4.67.1
+    - conda-forge::ipywidgets=8.1.8
