@@ -88,4 +88,4 @@ These are my personal solutions created for learning and problem-solving practic
 ## Links
 
 - [Advent of Code Website](https://adventofcode.com/)
-- [About Advent of Code](https://adventofcode.com/2025/about)
+- [About Advent of Code](https://adventofcode.com/about)
